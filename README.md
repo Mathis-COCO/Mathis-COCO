@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mathis-COCO
-- 👀 I’m interested in web development and also in sneakers & fashion + streetculture news
-- 🌱 I’m currently learning muliple languages
+- 👀 I’m interested in web development and also in sneakers, fashion and streetculture news
+- 🌱 I’m currently learning multiple languages
 
 <!---
 Mathis-COCO/Mathis-COCO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
